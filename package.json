@@ -1,16 +1,16 @@
 {
-  "name": "Burgundy-theme",
-  "displayName": "Burgundy theme",
-  "description": "[DESCRIPTION GOES HERE]",
+  "name": "Vesper-Noir",
+  "displayName": "Vesper Noir",
+  "description": "A dark VS Code theme with near-black backgrounds, burgundy accents, and vibrant syntax highlighting.",
   "version": "1.0.1",
   "publisher": "local",
   "author": {
-    "name": "[AUTHOR NAME]"
+    "name": "Saba Ioseliani"
   },
   "scripts": {
     "vsix": "npx @vscode/vsce package"
   },
-  "license": "UNLICENSED",
+  "license": "MIT-0",
   "icon": "images/thumbnail.png",
   "keywords": [],
   "engines": {
@@ -30,9 +30,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Burgundy",
+        "label": "Vesper Noir",
         "uiTheme": "vs-dark",
-        "path": "./themes/burgundy-color-theme.json"
+        "path": "./themes/Vesper-Noir-Theme.json"
       }
     ]
   }
