@@ -2107,6 +2107,13 @@
     "modernTab.activeBackground": "#6B1419",
     "modernTab.activeForeground": "#FFFFFF",
     "modernTab.hoverBackground": "#3D121A",
-    "modernTab.hoverForeground": "#ecced4"
+    "modernTab.hoverForeground": "#ecced4",
+    "editorBracketHighlight.foreground1": "#65B5F6",
+    "editorBracketHighlight.foreground2": "#7D9BFF",
+    "editorBracketHighlight.foreground3": "#A985F4",
+    "editorBracketHighlight.foreground4": "#D47FD5",
+    "editorBracketHighlight.foreground5": "#F083B1",
+    "editorBracketHighlight.foreground6": "#F5A06F",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#FF3158"
   }
 }
