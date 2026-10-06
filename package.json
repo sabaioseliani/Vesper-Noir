@@ -12,7 +12,26 @@
   },
   "license": "MIT-0",
   "icon": "images/thumbnail.png",
-  "keywords": [],
+  "keywords": [
+    "goth",
+    "gothic",
+    "vampire",
+    "vampiric",
+    "dark",
+    "dark theme",
+    "black",
+    "near-black",
+    "burgundy",
+    "wine",
+    "crimson",
+    "blood",
+    "noir",
+    "midnight",
+    "moody",
+    "atmospheric",
+    "dark academia",
+    "vesper"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
