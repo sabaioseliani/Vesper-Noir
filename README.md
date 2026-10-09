@@ -12,20 +12,7 @@ The result is a dark, low-glare theme with a strong visual identity, while keepi
 
 ## Preview
 
-<!--
-IMAGE 1:
-Take a screenshot of VS Code with Vesper Noir enabled.
-
-Recommended:
-- Show the entire VS Code window.
-- Explorer/sidebar visible.
-- Editor as the main focus.
-- Use a TypeScript or TSX file with enough syntax variety to show:
-  imports, variables, functions, types/interfaces, strings, numbers, comments, JSX, etc.
-- Avoid an artificially tiny demo file. Make it look like an actual development session.
--->
-
-![Vesper Noir — Editor Preview](./assets/preview-editor.png)
+![Vesper Noir — Editor Preview](./images/preview-editor.webp)
 
 ---
 
@@ -47,22 +34,7 @@ It is unmistakably dark, but not simply _black with red text everywhere_.
 
 ## A Gothic Workspace
 
-<!--
-IMAGE 2:
-Take a wider screenshot that emphasizes the UI rather than only syntax.
-
-Recommended:
-- Explorer open
-- Several tabs open
-- Integrated terminal visible
-- Status bar visible
-- Activity bar visible
-- Perhaps Git changes or another normal VS Code panel open
-
-The purpose of this image is to demonstrate how the burgundy/black aesthetic carries across the whole application.
--->
-
-![Vesper Noir — Full Workspace](./assets/preview-workspace.png)
+![Vesper Noir — Full Workspace](./images/preview-workspace.webp)
 
 The theme extends beyond the editor itself. Sidebars, tabs, selections, borders, terminal surfaces, status elements, and other interface components are designed to feel like parts of the same environment.
 
@@ -72,21 +44,7 @@ The gothic and vampiric character is deliberate, but the theme avoids turning VS
 
 ## Syntax
 
-<!--
-IMAGE 3:
-Take a close-up screenshot of syntax highlighting.
-
-Ideally show 2–3 editor panes or files representing different languages.
-
-Good combination:
-- TypeScript / React
-- HTML or Vue
-- CSS / SCSS
-
-Make sure the screenshot includes comments, strings, keywords, properties, function calls, types, punctuation, and variables.
--->
-
-![Vesper Noir — Syntax Highlighting](./assets/preview-syntax.png)
+![Vesper Noir — Syntax Highlighting](./images/preview-syntax.webp)
 
 Vesper Noir is designed around modern web development, with particular attention paid to JavaScript, TypeScript, React, HTML, CSS, and related tooling.
 
